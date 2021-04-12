@@ -5,12 +5,12 @@ eureka:
 ---
 spring:
   profiles: lazy
-activities: to grab a bear,to eat a cookie,to take a nap
+activities: First activity lazy value, Second activity lazy value
 server:
   port: 8010
 ---
 spring:
   profiles: crazy
-activities: to run a marathon, to go hiking
+activities: First activity crazy value, Second activity crazy value
 server:
   port: 8011

@@ -5,12 +5,12 @@ eureka:
 ---
 spring:
   profiles: polite
-decisions: Good day , Perfect moment
+decisions: First decision polite value, Second decision polite value
 server:
   port: 8000
 ---
 spring:
   profiles: rough
-decisions: Last time, The time
+decisions: First decision rough value, Second decision rough value
 server:
   port: 8001
