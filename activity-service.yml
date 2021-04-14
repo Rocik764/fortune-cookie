@@ -5,12 +5,12 @@ eureka:
 ---
 spring:
   profiles: lazy
-activities: First activity lazy value, Second activity lazy value
+activities: learn something new, take a break, get a job, copy code from Stack Overflow
 server:
   port: 8010
 ---
 spring:
   profiles: crazy
-activities: First activity crazy value, Second activity crazy value
+activities: go back to work, create another microservice, refresh the page to get new values, be even more productive
 server:
   port: 8011
